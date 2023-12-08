@@ -4,3 +4,4 @@ git pull "changes in remote repository to local repository"
 git-init "initialize git in local repository"
 git add -A
 git commit-m "message"
+git status "list all untracked files"
